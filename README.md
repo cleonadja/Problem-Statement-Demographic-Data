@@ -18,7 +18,7 @@ The dataset to be examined contains the following features age, the work class, 
 The dataset has 32,560 rows and 15 columns and uses up 3.8M GB in memory.
 
 ## Solution Statement
-A solution to this problem will be a classification model such as a logistic regression, a decision tree classifier, or a support vector classifier.
+A solution to this problem will be a classification model such as a logistic regression, decision tree, random forest, gradient-boosted tree, multilayer perceptron, one-vs-rest.
 
 ## Benchmark Model
 Given that we seek a classification model a good naive benchmark would be to guess the most common class.
